@@ -1,6 +1,5 @@
 # Logistic Regression Engine
 
-🔍 Logistic Regression Engine
 Tech stack: Python, NumPy, Pandas
 
 A from-scratch implementation of a logistic regression classifier using numerical optimization. The model is trained via custom gradient descent using numerical approximations (finite differences) rather than autograd or analytic gradients, which provides deeper insight into how gradient-based optimization works under the hood.
